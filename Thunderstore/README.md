@@ -12,7 +12,7 @@ Note 2. If you already have the buildings plopped, then please remove them first
 ## Technical
 
 ### Requirements and Compatibility
-- Cities Skylines II v1.0.18f1 or later; check GitHub or Discord if the mod is compatible with the latest game version.
+- Cities Skylines II v1.1.0f1 or later; check GitHub or Discord if the mod is compatible with the latest game version.
 - BepInEx 5.
 - The mod does NOT modify savefiles.
 - The mod does NOT modify any game systems.
@@ -21,6 +21,8 @@ Note 2. If you already have the buildings plopped, then please remove them first
 1. Place the `SignatureFix.dll` file in your BepInEx `Plugins` folder.
 
 ### Changelog
+- v1.1.0 (2024-03-20)
+  - Updated for v1.1.0 of the game.
 - v1.0.0 (2024-01-07)
   - Initial build.
 
