@@ -1,19 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Runtime.CompilerServices;
+using System.Reflection;
 using Unity.Collections;
 using Unity.Entities;
 using UnityEngine.Scripting;
 using Game;
 using Game.Prefabs;
 using Game.Economy;
-using Game.Buildings;
-using System.Reflection;
-using System.Security.AccessControl;
-using Mono.Cecil;
 
 namespace SignatureFix
 {
