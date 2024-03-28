@@ -1,7 +1,7 @@
 # SignatureFix
 Cities Skylines II mod that fixes always-empty industrial signature buildings i.e. Dairy House, Oil Refinery and Ground Earth. They will now have companies producing Food, Petrochemicals and Minerals, respectively.
-Note 1. Please note that this is a temporary fix only until CO will fix those buildings properly.
-Note 2. If you already have the buildings plopped, then please remove them first and build again. Also, make sure that you plop them in a suitable industrial area.
+
+**The mod is available on PDXMods platform.** This version will be deprecated in 2 weeks.
 
 ![Buildings](https://raw.githubusercontent.com/infixo/cs2-signaturefix/main/docs/signatures.png)
 
